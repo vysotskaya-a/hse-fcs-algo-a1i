@@ -56,6 +56,6 @@ g++ -std=c++17 -Wall -Wextra -Iinclude -o app main.cpp
 в виртуалку (venv):
 ```
 pip install pandas matplotlib numpy
-python visualize.py
+python3 visualize.py
 
 ```
